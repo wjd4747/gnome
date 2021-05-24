@@ -1,0 +1,2 @@
+# gnome
+Idea sharing system
